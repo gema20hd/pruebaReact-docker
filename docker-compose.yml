@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  frontend:
+    build:
+      context: ./crud_usuario
+      dockerfile: ./Dockerfile
+    image: "pruebadocker/crud-usuario-frontend-react"
+    ports:
+      - "3000:3000"
+   

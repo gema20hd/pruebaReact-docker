@@ -1,0 +1,28 @@
+body {
+  font-family: 'Lora';
+  background: linear-gradient(#fdf7f7, #eef0f1);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Raleway'; }
+p {
+  line-height: 1.75; }
+span{
+    color: black;
+    font-size: 1.5rem;
+    font-weight: 900;
+    align-content: center;
+    }
+    label{
+    color: black;
+    font-size: 2rem;
+    font-weight: 900;
+    }
+
